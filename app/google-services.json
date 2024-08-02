@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511575235555",
+    "project_id": "testapp-8bdc0",
+    "storage_bucket": "testapp-8bdc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511575235555:android:bb6b0afc48ca5888eeded6",
+        "android_client_info": {
+          "package_name": "com.takobu.mytestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJWCXeff3S6eUirlkbL0ttLrafuioU-a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
